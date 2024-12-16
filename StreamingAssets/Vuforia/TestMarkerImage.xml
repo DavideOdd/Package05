@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="salatineorender_01" size="500.000000 312.541046" />
+    <ImageTarget name="renderfirst" size="1000.000000 571.428589" />
+  </Tracking>
+</QCARConfig>
